@@ -1,0 +1,9 @@
+#inputColour{
+    height: 30px;
+    width: 30px;
+    padding:0px;
+    background-color: black;
+    border-radius: 50%;
+    border: none;
+    margin-right: 20px;
+}
